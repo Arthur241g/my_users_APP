@@ -1,19 +1,20 @@
 # Welcome to My Users App
-***
+Welcome to my_users_app in Fullstack 2 season
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+the problem is to resolve the implement the very famous MVC (model, view, controller) in my App, and the challenge is permit to register, connect, delete or update the data of one user.
 
 ## Description
-TODO - How have you solved the problem?
+In this project we will have to create a user, delete it, update it and modify it! The technologies will be synatra and sqlite....
+We will need to use them to manage a database with sqlite and synatra plus Json, and then we will create a user model to take all the system parameters to make our application work!
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+No need for installation, you just have to start the server then start making our requests and see the results.
 
 ## Usage
-TODO - How does it work?
+
 ```
-./my_project argument1 argument2
+./my_project view index.erb app.rb my_user_model.rb README.md
 ```
 
 ### The Core Team
